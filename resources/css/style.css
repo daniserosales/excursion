@@ -1,1 +1,39 @@
-check
+h1 {
+    
+    color: white;
+    display: block;
+    margin: auto;
+    left: 50%;
+    right: 50%;
+    font-size: 50px;
+   font-weight: normal;
+    
+    
+}
+HTML {
+    background-color: black;
+    font-family: 'Verdana';
+    text-align: center;
+    }
+.media {
+    display: block;
+    margin: auto;
+    left: 50%;
+    right: 50%;
+      }
+h5 {
+    display: block;
+    color: white;
+    font-size: 16px;
+    color: aquamarine;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
+h4 {
+    font-size: 21px;
+    color:white;
+    font-weight: normal;
+}
+   
